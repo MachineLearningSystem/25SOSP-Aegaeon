@@ -1,0 +1,570 @@
+[
+    {
+        "model": "synth_model_10",
+        "id": "chatcmpl-1cf99c30-ba9b-4ca2-9bbe-b55d88246316",
+        "latency": 35.44765615463257,
+        "first_token_time": 32.06134653091431,
+        "prompt_tokens": 2362,
+        "completion_tokens": 327
+    },
+    {
+        "model": "synth_model_02",
+        "id": "chatcmpl-41b3cfb7-c76a-406d-9ae3-477fad18d51a",
+        "latency": 34.514471769332886,
+        "first_token_time": 32.04441022872925,
+        "prompt_tokens": 2268,
+        "completion_tokens": 242
+    },
+    {
+        "model": "synth_model_10",
+        "id": "chatcmpl-63f6cb55-b02c-4f4a-b6d4-e42938e64c5b",
+        "latency": 10.679641962051392,
+        "first_token_time": 9.735710382461548,
+        "prompt_tokens": 754,
+        "completion_tokens": 82
+    },
+    {
+        "model": "synth_model_13",
+        "id": "chatcmpl-3c089962-4a2a-418a-8200-0560777f5b99",
+        "latency": 36.64783072471619,
+        "first_token_time": 34.08555340766907,
+        "prompt_tokens": 40,
+        "completion_tokens": 168
+    },
+    {
+        "model": "synth_model_02",
+        "id": "chatcmpl-beb9dc97-ad94-4089-a292-7d2275461fdc",
+        "latency": 21.819697618484497,
+        "first_token_time": 20.122836112976074,
+        "prompt_tokens": 60,
+        "completion_tokens": 166
+    },
+    {
+        "model": "synth_model_00",
+        "id": "chatcmpl-57218192-df7f-4943-a76b-3969f0c7573e",
+        "latency": 35.259418964385986,
+        "first_token_time": 32.2855589389801,
+        "prompt_tokens": 514,
+        "completion_tokens": 287
+    },
+    {
+        "model": "synth_model_13",
+        "id": "chatcmpl-d205819d-d87b-46e6-b91c-e61503eb7277",
+        "latency": 34.688191175460815,
+        "first_token_time": 30.991332054138184,
+        "prompt_tokens": 28,
+        "completion_tokens": 244
+    },
+    {
+        "model": "synth_model_08",
+        "id": "chatcmpl-f655add2-bf62-438f-99ec-1204dee66e82",
+        "latency": 34.14934968948364,
+        "first_token_time": 29.522531032562256,
+        "prompt_tokens": 1468,
+        "completion_tokens": 293
+    },
+    {
+        "model": "synth_model_07",
+        "id": "chatcmpl-1ebf289c-6465-46ce-bbe5-770973ffe1e0",
+        "latency": 35.30357909202576,
+        "first_token_time": 32.46319389343262,
+        "prompt_tokens": 3938,
+        "completion_tokens": 198
+    },
+    {
+        "model": "synth_model_11",
+        "id": "chatcmpl-b011878c-317a-48e3-82da-cc60a1d6ab94",
+        "latency": 40.22686982154846,
+        "first_token_time": 37.633662939071655,
+        "prompt_tokens": 2660,
+        "completion_tokens": 244
+    },
+    {
+        "model": "synth_model_02",
+        "id": "chatcmpl-e04dda18-8e5b-4665-abe9-ad8d8a6454be",
+        "latency": 27.111401796340942,
+        "first_token_time": 22.753854990005493,
+        "prompt_tokens": 2476,
+        "completion_tokens": 437
+    },
+    {
+        "model": "synth_model_06",
+        "id": "chatcmpl-24d1bbe3-786f-42ae-b528-ba195f223846",
+        "latency": 43.27331614494324,
+        "first_token_time": 37.13469099998474,
+        "prompt_tokens": 1162,
+        "completion_tokens": 623
+    },
+    {
+        "model": "synth_model_00",
+        "id": "chatcmpl-d5edc651-6fea-4e79-ad1e-b0d86f17a1b5",
+        "latency": 29.70394015312195,
+        "first_token_time": 25.100652933120728,
+        "prompt_tokens": 2246,
+        "completion_tokens": 448
+    },
+    {
+        "model": "synth_model_02",
+        "id": "chatcmpl-49e5a041-1aa3-436c-812d-80c18afbd713",
+        "latency": 27.405041694641113,
+        "first_token_time": 26.414361715316772,
+        "prompt_tokens": 1402,
+        "completion_tokens": 98
+    },
+    {
+        "model": "synth_model_06",
+        "id": "chatcmpl-6ed91e3f-df15-42d8-a9e0-5b31c8873c6a",
+        "latency": 41.70583987236023,
+        "first_token_time": 41.192338705062866,
+        "prompt_tokens": 354,
+        "completion_tokens": 51
+    },
+    {
+        "model": "synth_model_11",
+        "id": "chatcmpl-1d31c6d1-2ef7-454e-ac05-2f27e752d438",
+        "latency": 21.56711983680725,
+        "first_token_time": 17.226356506347656,
+        "prompt_tokens": 598,
+        "completion_tokens": 430
+    },
+    {
+        "model": "synth_model_06",
+        "id": "chatcmpl-7ed6e672-97f2-4eb8-929d-8d60ead0fbc5",
+        "latency": 35.20626163482666,
+        "first_token_time": 34.55835962295532,
+        "prompt_tokens": 1802,
+        "completion_tokens": 61
+    },
+    {
+        "model": "synth_model_02",
+        "id": "chatcmpl-cfca400e-308b-4e4c-a521-71807b32f470",
+        "latency": 19.23105025291443,
+        "first_token_time": 17.11305832862854,
+        "prompt_tokens": 18,
+        "completion_tokens": 218
+    },
+    {
+        "model": "synth_model_07",
+        "id": "chatcmpl-8525a84f-6819-4890-8022-310f8155b1ca",
+        "latency": 38.7930223941803,
+        "first_token_time": 32.51017475128174,
+        "prompt_tokens": 1660,
+        "completion_tokens": 636
+    },
+    {
+        "model": "synth_model_13",
+        "id": "chatcmpl-84231c1f-61f7-4ad7-ad4e-0ffdfe60cf35",
+        "latency": 33.09312129020691,
+        "first_token_time": 27.11537790298462,
+        "prompt_tokens": 3046,
+        "completion_tokens": 388
+    },
+    {
+        "model": "synth_model_11",
+        "id": "chatcmpl-6e63a77e-e2df-4f81-8186-d8d2edb9dfcf",
+        "latency": 18.288186073303223,
+        "first_token_time": 17.08248782157898,
+        "prompt_tokens": 24,
+        "completion_tokens": 119
+    },
+    {
+        "model": "synth_model_07",
+        "id": "chatcmpl-c4cec3a5-7898-4c06-bdaf-2c0843956780",
+        "latency": 35.62119150161743,
+        "first_token_time": 35.37707853317261,
+        "prompt_tokens": 218,
+        "completion_tokens": 24
+    },
+    {
+        "model": "synth_model_02",
+        "id": "chatcmpl-deb97a55-916d-4b2d-a75b-341d23283671",
+        "latency": 13.139484167098999,
+        "first_token_time": 12.37406039237976,
+        "prompt_tokens": 42,
+        "completion_tokens": 79
+    },
+    {
+        "model": "synth_model_06",
+        "id": "chatcmpl-bbecc996-7466-4e01-bd0c-4e0d7edecd53",
+        "latency": 28.31136918067932,
+        "first_token_time": 26.204145908355713,
+        "prompt_tokens": 984,
+        "completion_tokens": 211
+    },
+    {
+        "model": "synth_model_13",
+        "id": "chatcmpl-74af95bb-893f-405e-8b34-1fbf96b5ec98",
+        "latency": 30.413718700408936,
+        "first_token_time": 29.59174346923828,
+        "prompt_tokens": 430,
+        "completion_tokens": 54
+    },
+    {
+        "model": "synth_model_00",
+        "id": "chatcmpl-22ca9b08-d574-4214-9480-a0f875a44911",
+        "latency": 35.26307487487793,
+        "first_token_time": 29.921961784362793,
+        "prompt_tokens": 750,
+        "completion_tokens": 546
+    },
+    {
+        "model": "synth_model_11",
+        "id": "chatcmpl-47e8d0b7-abb5-41c2-933f-f9a397901dc9",
+        "latency": 16.34089684486389,
+        "first_token_time": 14.000050067901611,
+        "prompt_tokens": 34,
+        "completion_tokens": 234
+    },
+    {
+        "model": "synth_model_13",
+        "id": "chatcmpl-79e6b59c-ec7a-450f-83f6-dd207b66170e",
+        "latency": 31.102826356887817,
+        "first_token_time": 28.742231369018555,
+        "prompt_tokens": 1772,
+        "completion_tokens": 155
+    },
+    {
+        "model": "synth_model_00",
+        "id": "chatcmpl-3391d970-a812-4308-b342-f3effc0b0989",
+        "latency": 37.670368909835815,
+        "first_token_time": 36.93155026435852,
+        "prompt_tokens": 650,
+        "completion_tokens": 74
+    },
+    {
+        "model": "synth_model_07",
+        "id": "chatcmpl-fe8ea754-87c5-4eb7-bd7e-6e0829c78709",
+        "latency": 37.545695543289185,
+        "first_token_time": 33.86263990402222,
+        "prompt_tokens": 654,
+        "completion_tokens": 370
+    },
+    {
+        "model": "synth_model_06",
+        "id": "chatcmpl-c88a7803-d921-4226-919b-4b4d4462f1e7",
+        "latency": 27.53429675102234,
+        "first_token_time": 23.85393786430359,
+        "prompt_tokens": 2148,
+        "completion_tokens": 370
+    },
+    {
+        "model": "synth_model_00",
+        "id": "chatcmpl-a4e0ba29-1c2f-412c-9425-997670fc6b52",
+        "latency": 34.984658002853394,
+        "first_token_time": 32.42726469039917,
+        "prompt_tokens": 90,
+        "completion_tokens": 263
+    },
+    {
+        "model": "synth_model_07",
+        "id": "chatcmpl-eb72d57a-8e93-4692-9ae7-2b4ab613a222",
+        "latency": 35.64642405509949,
+        "first_token_time": 33.7248592376709,
+        "prompt_tokens": 14,
+        "completion_tokens": 194
+    },
+    {
+        "model": "synth_model_13",
+        "id": "chatcmpl-15e16f99-402c-4f42-98c2-1841b9766e37",
+        "latency": 29.06527280807495,
+        "first_token_time": 25.34441590309143,
+        "prompt_tokens": 16,
+        "completion_tokens": 252
+    },
+    {
+        "model": "synth_model_11",
+        "id": "chatcmpl-4a796f10-832f-41b5-acff-d5a327ca0bfd",
+        "latency": 6.4436423778533936,
+        "first_token_time": 3.011601448059082,
+        "prompt_tokens": 1318,
+        "completion_tokens": 341
+    },
+    {
+        "model": "synth_model_06",
+        "id": "chatcmpl-188a3c21-7d7a-48de-8e2e-77fbe0391844",
+        "latency": 30.762948989868164,
+        "first_token_time": 27.630512952804565,
+        "prompt_tokens": 2522,
+        "completion_tokens": 309
+    },
+    {
+        "model": "synth_model_07",
+        "id": "chatcmpl-158bcdb7-d1e9-43a0-a6ab-e244043e90ee",
+        "latency": 28.113261938095093,
+        "first_token_time": 26.758310079574585,
+        "prompt_tokens": 1614,
+        "completion_tokens": 130
+    },
+    {
+        "model": "synth_model_00",
+        "id": "chatcmpl-acca697f-4fad-4fdd-b03b-c5d124114b2e",
+        "latency": 26.664329290390015,
+        "first_token_time": 19.142280101776123,
+        "prompt_tokens": 1446,
+        "completion_tokens": 771
+    },
+    {
+        "model": "synth_model_04",
+        "id": "chatcmpl-e3ca1114-d4d8-405e-a90e-ad72a25eafa3",
+        "latency": 55.76070499420166,
+        "first_token_time": 55.208470821380615,
+        "prompt_tokens": 2955,
+        "completion_tokens": 18
+    },
+    {
+        "model": "synth_model_04",
+        "id": "chatcmpl-5f8c073e-e77c-483a-a709-87ee3da4cd02",
+        "latency": 44.53588652610779,
+        "first_token_time": 43.89203357696533,
+        "prompt_tokens": 21,
+        "completion_tokens": 42
+    },
+    {
+        "model": "synth_model_05",
+        "id": "chatcmpl-cff868ac-3385-4b62-bc7f-f9af2ac5907a",
+        "latency": 61.41483402252197,
+        "first_token_time": 56.086652517318726,
+        "prompt_tokens": 902,
+        "completion_tokens": 470
+    },
+    {
+        "model": "synth_model_04",
+        "id": "chatcmpl-fe2bcf9b-6007-4d37-923e-8488b718728a",
+        "latency": 19.64406180381775,
+        "first_token_time": 15.611713886260986,
+        "prompt_tokens": 3825,
+        "completion_tokens": 272
+    },
+    {
+        "model": "synth_model_04",
+        "id": "chatcmpl-fbed9046-8c87-4ff5-bd1a-bf9b20dc02ec",
+        "latency": 20.418697595596313,
+        "first_token_time": 19.086756706237793,
+        "prompt_tokens": 15,
+        "completion_tokens": 97
+    },
+    {
+        "model": "synth_model_05",
+        "id": "chatcmpl-5a0a1aa2-f185-4af5-93ec-e114459b79a4",
+        "latency": 65.08276677131653,
+        "first_token_time": 60.48277807235718,
+        "prompt_tokens": 406,
+        "completion_tokens": 444
+    },
+    {
+        "model": "synth_model_05",
+        "id": "chatcmpl-d84710ba-fc8e-40c0-98f5-daf7c9642ee6",
+        "latency": 58.201085329055786,
+        "first_token_time": 58.027677059173584,
+        "prompt_tokens": 362,
+        "completion_tokens": 16
+    },
+    {
+        "model": "synth_model_10",
+        "id": "chatcmpl-d9851896-799d-47b4-889b-c6d68be37053",
+        "latency": 31.459678649902344,
+        "first_token_time": 31.036882400512695,
+        "prompt_tokens": 3364,
+        "completion_tokens": 20
+    },
+    {
+        "model": "synth_model_05",
+        "id": "chatcmpl-c1d0e6fb-9788-4f91-a679-6d184bc8ade1",
+        "latency": 63.9417929649353,
+        "first_token_time": 57.96835017204285,
+        "prompt_tokens": 1716,
+        "completion_tokens": 569
+    },
+    {
+        "model": "synth_model_05",
+        "id": "chatcmpl-3f5dd854-1418-4962-a7c6-4713ab990fd6",
+        "latency": 53.80459475517273,
+        "first_token_time": 48.5278422832489,
+        "prompt_tokens": 1840,
+        "completion_tokens": 502
+    },
+    {
+        "model": "synth_model_08",
+        "id": "chatcmpl-a09dc4db-b7cc-43a7-b697-205e4500e857",
+        "latency": 45.481329679489136,
+        "first_token_time": 41.08812928199768,
+        "prompt_tokens": 20,
+        "completion_tokens": 291
+    },
+    {
+        "model": "synth_model_05",
+        "id": "chatcmpl-96c978a9-6893-4bb8-890e-3afbcb6b9361",
+        "latency": 36.12916660308838,
+        "first_token_time": 32.76854729652405,
+        "prompt_tokens": 2516,
+        "completion_tokens": 316
+    },
+    {
+        "model": "synth_model_15",
+        "id": "chatcmpl-acf00f09-0020-4a9b-b9ec-83e841dbbc8a",
+        "latency": 83.8608660697937,
+        "first_token_time": 81.13940715789795,
+        "prompt_tokens": 1366,
+        "completion_tokens": 243
+    },
+    {
+        "model": "synth_model_14",
+        "id": "chatcmpl-52f08a0d-8225-451f-8d9d-1a47c198d6b4",
+        "latency": 79.39957642555237,
+        "first_token_time": 77.5819947719574,
+        "prompt_tokens": 277,
+        "completion_tokens": 136
+    },
+    {
+        "model": "synth_model_08",
+        "id": "chatcmpl-f44522bb-0aa6-4cd4-821a-7195032968a6",
+        "latency": 45.04521107673645,
+        "first_token_time": 41.0305118560791,
+        "prompt_tokens": 3458,
+        "completion_tokens": 255
+    },
+    {
+        "model": "synth_model_15",
+        "id": "chatcmpl-46267add-d0af-48e0-9955-d5dc076f6af4",
+        "latency": 82.281245470047,
+        "first_token_time": 80.99699020385742,
+        "prompt_tokens": 1762,
+        "completion_tokens": 123
+    },
+    {
+        "model": "synth_model_03",
+        "id": "chatcmpl-e0f499cc-7009-4931-a39b-693422b898f9",
+        "latency": 76.93586421012878,
+        "first_token_time": 75.5940535068512,
+        "prompt_tokens": 10,
+        "completion_tokens": 84
+    },
+    {
+        "model": "synth_model_15",
+        "id": "chatcmpl-7e41a5b2-480b-4008-b36e-2f853bd239c5",
+        "latency": 81.59824442863464,
+        "first_token_time": 78.4282398223877,
+        "prompt_tokens": 2870,
+        "completion_tokens": 304
+    },
+    {
+        "model": "synth_model_14",
+        "id": "chatcmpl-c0135c37-a1a1-4e59-80c5-b7c032753c8f",
+        "latency": 79.2217926979065,
+        "first_token_time": 72.72861766815186,
+        "prompt_tokens": 2311,
+        "completion_tokens": 470
+    },
+    {
+        "model": "synth_model_12",
+        "id": "chatcmpl-cd21c372-4d50-4a2c-ba46-6f943ca00468",
+        "latency": 65.19040179252625,
+        "first_token_time": 60.68195986747742,
+        "prompt_tokens": 328,
+        "completion_tokens": 366
+    },
+    {
+        "model": "synth_model_12",
+        "id": "chatcmpl-90a00e40-cad6-40dc-b68b-bc004072b72c",
+        "latency": 66.12566685676575,
+        "first_token_time": 64.80494356155396,
+        "prompt_tokens": 510,
+        "completion_tokens": 132
+    },
+    {
+        "model": "synth_model_03",
+        "id": "chatcmpl-a21a0839-6339-4745-9d62-fd968993ab62",
+        "latency": 78.78526377677917,
+        "first_token_time": 74.1253981590271,
+        "prompt_tokens": 104,
+        "completion_tokens": 312
+    },
+    {
+        "model": "synth_model_12",
+        "id": "chatcmpl-695416f8-7e0e-4c0a-9715-78ec78459262",
+        "latency": 53.40449404716492,
+        "first_token_time": 52.29139256477356,
+        "prompt_tokens": 1980,
+        "completion_tokens": 101
+    },
+    {
+        "model": "synth_model_15",
+        "id": "chatcmpl-8f92b119-2d32-4f68-9f97-9542346265ba",
+        "latency": 84.42433953285217,
+        "first_token_time": 80.17267966270447,
+        "prompt_tokens": 1078,
+        "completion_tokens": 404
+    },
+    {
+        "model": "synth_model_09",
+        "id": "chatcmpl-3c08ebf0-b804-4fe5-a6d5-2aee0f0ca747",
+        "latency": 63.42289710044861,
+        "first_token_time": 57.16090941429138,
+        "prompt_tokens": 71,
+        "completion_tokens": 493
+    },
+    {
+        "model": "synth_model_14",
+        "id": "chatcmpl-fb4046c0-6c3e-423c-8c39-e515e7a08403",
+        "latency": 65.3462131023407,
+        "first_token_time": 59.14597773551941,
+        "prompt_tokens": 1085,
+        "completion_tokens": 465
+    },
+    {
+        "model": "synth_model_15",
+        "id": "chatcmpl-c140bae4-c7f3-465a-ac24-21cf19854de0",
+        "latency": 84.75454139709473,
+        "first_token_time": 82.29842209815979,
+        "prompt_tokens": 12,
+        "completion_tokens": 240
+    },
+    {
+        "model": "synth_model_12",
+        "id": "chatcmpl-3345262f-dc04-4166-8148-bc6ccb07281e",
+        "latency": 57.39428973197937,
+        "first_token_time": 55.14842200279236,
+        "prompt_tokens": 78,
+        "completion_tokens": 232
+    },
+    {
+        "model": "synth_model_03",
+        "id": "chatcmpl-4f9aee7d-5af2-4aef-92f1-2164724db69c",
+        "latency": 68.85154819488525,
+        "first_token_time": 60.62829923629761,
+        "prompt_tokens": 1092,
+        "completion_tokens": 538
+    },
+    {
+        "model": "synth_model_15",
+        "id": "chatcmpl-229d3f90-a007-4b7c-81dc-2ca885d58c34",
+        "latency": 75.84596991539001,
+        "first_token_time": 72.56970238685608,
+        "prompt_tokens": 1730,
+        "completion_tokens": 317
+    },
+    {
+        "model": "synth_model_14",
+        "id": "chatcmpl-a1ebcdbc-33f5-4fd5-8721-16fa2ed75a60",
+        "latency": 65.70382690429688,
+        "first_token_time": 61.27032709121704,
+        "prompt_tokens": 1517,
+        "completion_tokens": 335
+    },
+    {
+        "model": "synth_model_14",
+        "id": "chatcmpl-aa62a5ba-05bd-4dc6-8538-ce9f3a6a44cc",
+        "latency": 65.85058045387268,
+        "first_token_time": 63.43030619621277,
+        "prompt_tokens": 403,
+        "completion_tokens": 190
+    },
+    {
+        "model": "synth_model_14",
+        "id": "chatcmpl-4de9ae19-fe11-4660-b1f6-a4c1665bad06",
+        "latency": 63.57829833030701,
+        "first_token_time": 62.12461471557617,
+        "prompt_tokens": 29,
+        "completion_tokens": 115
+    }
+]

@@ -1,0 +1,10 @@
+cluster:
+  nnodes: 1
+  ngpus_per_node: 4
+models:
+- name: llm-0
+  model: /root/models/llama-7b
+  rate: 12
+- name: llm-1
+  model: /root/models/llama-13b
+  rate: 5
